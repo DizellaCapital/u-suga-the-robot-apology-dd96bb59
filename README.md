@@ -1,8 +1,8 @@
 # The Robot Apology
 
-[![make.fun competition](https://make.fun/c/u-suga-the-robot-apology-dd96bb59/badge.svg)](https://make.fun/bounty/u-suga-the-robot-apology-dd96bb59)
-[![make.fun rank](https://make.fun/c/u-suga-the-robot-apology-dd96bb59/rank.svg?owner=DizellaCapital)](https://make.fun/bounty/u-suga-the-robot-apology-dd96bb59)
-[![make.fun reward](https://make.fun/c/u-suga-the-robot-apology-dd96bb59/reward.svg)](https://make.fun/bounty/u-suga-the-robot-apology-dd96bb59)
+[![make.fun · u-suga-the-robot-apology-dd96bb59](https://make.fun/badge/u-suga-the-robot-apology-dd96bb59.svg)](https://make.fun/bounty/u-suga-the-robot-apology-dd96bb59?utm_source=github&utm_medium=readme&utm_campaign=u-suga-the-robot-apology-dd96bb59)
+[![rank](https://make.fun/badge/u-suga-the-robot-apology-dd96bb59/DizellaCapital/u-suga-the-robot-apology-dd96bb59/rank.svg)](https://make.fun/bounty/u-suga-the-robot-apology-dd96bb59/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-suga-the-robot-apology-dd96bb59)
+[![reward](https://make.fun/badge/u-suga-the-robot-apology-dd96bb59/DizellaCapital/u-suga-the-robot-apology-dd96bb59/reward.svg)](https://make.fun/bounty/u-suga-the-robot-apology-dd96bb59?utm_source=github&utm_medium=readme&utm_campaign=u-suga-the-robot-apology-dd96bb59)
 
 Entry for the [The Robot Apology bounty](https://make.fun/bounty/u-suga-the-robot-apology-dd96bb59) on make.fun.
 
